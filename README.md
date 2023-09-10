@@ -36,7 +36,7 @@ python predict.py predict.csv predict
 
 —save_name: A factor that puts the storage name of the trained model.
 
-The figure below defines the Trafficformer architecture in model.py.
+The figure below defines the Trafficformer architecture in `model.py`.
 
 <img width="466" alt="image" src="https://github.com/DSAIL-SKKU/Trafficformer-ICCE-2022/assets/60170358/16a9e478-6fe3-4cb0-9436-3ab8059470fa">
 
