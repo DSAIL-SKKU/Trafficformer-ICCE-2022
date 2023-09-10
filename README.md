@@ -9,7 +9,6 @@ This codebase contains the python scripts for the model for the ICCE 2022. https
 To evaluate the proposed model, we use the large-scale Wikipedia dataset consisting of the daily numbers of the visits of 145 K Wikipedia articles from July 1, 2015 to September 10, 2017, available on [Kaggle](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data). In additional to the total numbers of daily visits of each page, the dataset also provides the daily numbers of the visits via 3 different types of accessing devices: Spider, Desktop, and Mobile.
 
 ## Run
-## Run
 
 ```python
 python train.py --filename --n_days --save name
