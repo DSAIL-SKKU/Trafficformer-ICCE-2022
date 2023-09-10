@@ -21,9 +21,7 @@ python train.py train.csv 10 train
 
 —n_days: A factor that determines whether to view the next data based on information about n days.
 
-—save_name: A factor that receives where to store the model.
-
-
+—save_name: A factor that receives where to store the model. <br/>
 
 ```python
 python predict.py --filename --save_name
@@ -34,7 +32,7 @@ python predict.py predict.csv predict
 
 —filename: Data on which files to view and make predictions.
 
-—save_name: A factor that puts the storage name of the trained model.
+—save_name: A factor that puts the storage name of the trained model.<br/>
 
 The figure below defines the Trafficformer architecture in `model.py`.
 
