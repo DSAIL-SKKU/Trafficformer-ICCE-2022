@@ -21,6 +21,8 @@ python train.py train.csv 10 train
 —n_days: A factor that determines whether to view the next data based on information about n days.
 —save_name: A factor that receives where to store the model.
 
+
+
 ```python
 python predict.py --filename --save_name
 
